@@ -42,3 +42,61 @@
 ## S&P500
 
 ![JacobSP5005](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/309524d8-6506-4bf2-927f-a07a268ea415)
+
+# Lee and Mykland (15-min)
+
+## AUDCAD
+
+![LeeAUDCAD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/0d50e70f-e6ec-4685-9053-ffabd4eafb6a)
+
+## AUDUSD
+
+![LeeAUDUSD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/f4dab6d9-0cce-4914-ac03-c80185c47032)
+
+## EURCAD
+
+![LeeEURCAD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/7cf0d5b6-8c68-4eae-8fe6-a4a6ac10d744)
+
+## EURUSD
+
+![LeeEURUSD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/2e680178-7471-4726-a4c0-7aa3a8dc1c5d)
+
+## S&P500
+
+![LeeSP50015](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/d4b9c1a9-26e5-4967-b1e9-afeb4597de91)
+
+
+# Aït-Sahalia and Jacob (15-min)
+
+## AUDCAD
+
+![JacobAUDCAD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/43a4de80-24d7-4b3a-8543-d74f937cd843)
+
+## AUDUSD
+
+![JacobAUDUSD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/aa46a744-4dad-40f4-af67-008b8f30ecbc)
+
+## EURCAD
+
+![JacobEURCAD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/cced18a0-6b9b-4f41-bfec-79201079bc23)
+
+## EURUSD
+
+![JacobEURUSD15](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/7ac10cc8-d0e1-4ec3-9058-30be400ad62d)
+
+## S&P500
+
+![JacobSP50015](https://github.com/CoetzeeKoegelenberg/ESWA-EntropyPriceJump/assets/105480407/5e880136-2ed5-4210-98db-948c09453c7d)
+
+
+
+
+
+
+
+
+
+
+
+
+
